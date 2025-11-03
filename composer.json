@@ -1,5 +1,5 @@
 {
-    "name": "chiiya/filament-access-control",
+    "name": "ediazaro/filament-access-control",
     "description": "Admin user, role and permission management for Laravel Filament",
     "keywords": [
         "chiiya",
@@ -9,7 +9,7 @@
         "roles",
         "permissions"
     ],
-    "homepage": "https://github.com/chiiya/filament-access-control",
+    "homepage": "https://github.com/ediazaro/filament-access-control",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     "require": {
         "php": "^8.2|^8.3|^8.4",
         "filament/filament": "^4.0",
-        "illuminate/contracts": "^12.0",
+        "illuminate/contracts": "^11.0 | ^12.0",
         "spatie/laravel-package-tools": "^1.11",
         "spatie/laravel-permission": "^6.4"
     },
